@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url("galaxy.jpg");
+    background-size: cover;
+}
+
+#myCanvas{
+    border-width: 30px;
+    background-color: lavender;
+    border-style: ridge;
+    border-color: lightsalmon;
+    align-content: center;
+   
+}
